@@ -1,0 +1,9 @@
+# Dependencies
+/node_modules
+/.wwebjs_cache
+
+# Envrionment variables
+.env
+
+# Windows
+desktop.ini
